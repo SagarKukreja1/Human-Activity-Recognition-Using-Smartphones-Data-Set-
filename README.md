@@ -4,6 +4,13 @@ author: "carrotKing93"
 date: "September 27, 2015"
 output: html_document
 ---
+For details on the original experiment, check out:
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
+Also, download and check out the README.txt,features.txt, features_info.txt here:
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ##A brief overview of run_analysis.R
 
