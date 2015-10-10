@@ -1,6 +1,6 @@
 ---
 title: "README"
-author: "carrotKing93"
+author: "Sagar Kukreja"
 date: "September 27, 2015"
 output: html_document
 ---
